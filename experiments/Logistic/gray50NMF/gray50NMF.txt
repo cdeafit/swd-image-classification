@@ -1,0 +1,1 @@
+Grayscale, 50x50, NMF components fixed

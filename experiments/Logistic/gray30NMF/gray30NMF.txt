@@ -1,0 +1,1 @@
+Grayscale, 30x30, include same components that PCA80. It appears that it has the same results as when such thing is not performed.

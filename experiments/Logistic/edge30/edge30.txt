@@ -1,0 +1,1 @@
+Grayscale to edges, 30x30, NMF fixed components

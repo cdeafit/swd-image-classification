@@ -1,0 +1,1 @@
+grayscale, 10x10, no extra processing

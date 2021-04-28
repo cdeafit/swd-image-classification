@@ -1,0 +1,1 @@
+Rescale grayscale values, 50x50, 41 NMF fixed components
