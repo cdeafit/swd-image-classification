@@ -1,3 +1,3 @@
-# swd-image-classification
+# Solid Domestic Waste Image Classification
 ----------------------
-This is a readme file
+
